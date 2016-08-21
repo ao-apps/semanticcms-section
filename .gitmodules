@@ -1,0 +1,12 @@
+[submodule "semanticcms-section-model"]
+	path = semanticcms-section-model
+	url = git@github.com:aoindustries/semanticcms-section-model.git
+[submodule "semanticcms-section-servlet"]
+	path = semanticcms-section-servlet
+	url = git@github.com:aoindustries/semanticcms-section-servlet.git
+[submodule "semanticcms-section-style"]
+	path = semanticcms-section-style
+	url = git@github.com:aoindustries/semanticcms-section-style.git
+[submodule "semanticcms-section-taglib"]
+	path = semanticcms-section-taglib
+	url = git@github.com:aoindustries/semanticcms-section-taglib.git

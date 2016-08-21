@@ -7,7 +7,3 @@ release.properties
 dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
-semanticcms-section-model
-semanticcms-section-servlet
-semanticcms-section-style
-semanticcms-section-taglib

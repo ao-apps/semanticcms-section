@@ -10,3 +10,6 @@
 [submodule "semanticcms-section-taglib"]
 	path = semanticcms-section-taglib
 	url = git@github.com:aoindustries/semanticcms-section-taglib.git
+[submodule "semanticcms-section-all"]
+	path = semanticcms-section-all
+	url = git@github.com:aoindustries/semanticcms-section-all.git

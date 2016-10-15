@@ -3,7 +3,7 @@ Parent POM for sections nested within [SemanticCMS](https://semanticcms.com/) pa
 
 ## Project Links
 * [Project Home](https://semanticcms.com/section/)
-* [Maven Central Repository](http://search.maven.org/#search|gav|1|g:%22com.semanticcms%22%20AND%20a:%22semanticcms-section%22)
+* [Maven Central Repository](https://search.maven.org/#search|gav|1|g:%22com.semanticcms%22%20AND%20a:%22semanticcms-section%22)
 * [GitHub](https://github.com/aoindustries/semanticcms-section)
 
 ## Modules

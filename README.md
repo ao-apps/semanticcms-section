@@ -1,5 +1,5 @@
 # [<img src="ao-logo.png" alt="AO Logo" width="35" height="40">](https://www.aoindustries.com/) [SemanticCMS](https://semanticcms.com/) / [Section](https://semanticcms.com/section/)
-Parent POM for [sections nested within SemanticCMS](https://semanticcms.com/section/) pages and elements.
+Parent POM for sections nested within [SemanticCMS](https://semanticcms.com/) pages and elements.
 
 ## Project Links
 * [Project Home](https://semanticcms.com/section/)

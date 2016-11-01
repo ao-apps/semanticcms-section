@@ -57,10 +57,10 @@ along with semanticcms-section.  If not, see <http://www.gnu.org/licenses />.
 	</scm>
 
 	<modules>
-		<module>semanticcms-section-all</module>
-		<module>semanticcms-section-model</module>
-		<module>semanticcms-section-servlet</module>
-		<module>semanticcms-section-style</module>
-		<module>semanticcms-section-taglib</module>
+		<module>all</module>
+		<module>model</module>
+		<module>servlet</module>
+		<module>style</module>
+		<module>taglib</module>
 	</modules>
 </project>

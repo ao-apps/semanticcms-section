@@ -13,3 +13,18 @@
 [submodule "semanticcms-section-all"]
 	path = semanticcms-section-all
 	url = git@github.com:aoindustries/semanticcms-section-all.git
+[submodule "all"]
+	path = all
+	url = git@github.com:aoindustries/semanticcms-section-all.git
+[submodule "model"]
+	path = model
+	url = git@github.com:aoindustries/semanticcms-section-model.git
+[submodule "servlet"]
+	path = servlet
+	url = git@github.com:aoindustries/semanticcms-section-servlet.git
+[submodule "style"]
+	path = style
+	url = git@github.com:aoindustries/semanticcms-section-style.git
+[submodule "taglib"]
+	path = taglib
+	url = git@github.com:aoindustries/semanticcms-section-taglib.git

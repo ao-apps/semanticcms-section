@@ -1,5 +1,5 @@
 <!--
-semanticcms-section - Parent POM for sections nested within SemanticCMS pages and elements.
+semanticcms-section - Aggregator POM for sections nested within SemanticCMS pages and elements.
 Copyright (C) 2016  AO Industries, Inc.
     support@aoindustries.com
     7262 Bull Pen Cir
@@ -36,12 +36,18 @@ along with semanticcms-section.  If not, see <http://www.gnu.org/licenses />.
 		shortTitle="Changelog"
 		tocLevels="1"
 		datePublished="2016-10-31T01:56:27-0500"
+		dateModified="2016-11-13T21:10:46-0600"
 	>
 		<!-- The current snapshot, unreleased version -->
-		<c:if test="${fn:endsWith('@{com.aoindustries:semanticcms-section:jar.version}', '-SNAPSHOT')}">
+		<c:set var="version" value="@{com.semanticcms:semanticcms-section:pom.version}" />
+		<ao:assert
+			test="${!fn:startsWith(version, '@')}"
+			message="Version not substituted: #{version}"
+		/>
+		<c:if test="${fn:endsWith(version, '-SNAPSHOT')}">
 			<changelog:release
 				projectName="@{documented.name}"
-				version="@{com.aoindustries:semanticcms-section:jar.version}"
+				version="#{version}"
 				groupId="@{documented.groupId}"
 				artifactId="@{documented.artifactId}"
 				scmUrl="@{documented.scm.url}"

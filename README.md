@@ -28,7 +28,6 @@ Aggregator POM for sections nested within [SemanticCMS](https://semanticcms.com/
 
 ## Modules
 * [SemanticCMS Section All](https://semanticcms.com/section/all/)
-* [SemanticCMS Section Book](https://semanticcms.com/section/book/)
 * [SemanticCMS Section Model](https://semanticcms.com/section/model/)
 * [SemanticCMS Section Servlet](https://semanticcms.com/section/servlet/)
 * [SemanticCMS Section Style](https://semanticcms.com/section/style/)

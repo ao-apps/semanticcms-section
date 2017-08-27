@@ -37,7 +37,7 @@ along with semanticcms-section.  If not, see <http://www.gnu.org/licenses />.
 		shortTitle="Changelog"
 		tocLevels="1"
 		datePublished="2016-10-31T01:56:27-0500"
-		dateModified="2017-08-21T19:59:14-0500"
+		dateModified="2017-08-27T13:54:18-0500"
 	>
 		<!-- The current snapshot, unreleased version -->
 		<c:set var="version" value="@{com.semanticcms:semanticcms-section:pom.version}" />
@@ -55,6 +55,7 @@ along with semanticcms-section.  If not, see <http://www.gnu.org/licenses />.
 			>
 				<ul>
 					<li>Updated for <core:link book="/" page="/" /> 2.</li>
+					<li>New module <core:link book="/section/renderer/html" page="/" />.</li>
 				</ul>
 			</changlog:release>
 		</c:if>

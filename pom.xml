@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
 semanticcms-section - Aggregator POM for sections nested within SemanticCMS pages and elements.
-Copyright (C) 2016, 2017, 2018  AO Industries, Inc.
+Copyright (C) 2016, 2017, 2018, 2019  AO Industries, Inc.
     support@aoindustries.com
     7262 Bull Pen Cir
     Mobile, AL 36695
@@ -32,7 +32,7 @@ along with semanticcms-section.  If not, see <http://www.gnu.org/licenses />.
 	<groupId>com.semanticcms</groupId><artifactId>semanticcms-section</artifactId><version>2.0.0-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
-	<name>SemanticCMS Section</name>
+	<name>SemanticCMS 2 Section</name>
 	<url>https://semanticcms.com/section/</url>
 	<description>Aggregator POM for sections nested within SemanticCMS pages and elements.</description>
 	<inceptionYear>2016</inceptionYear>

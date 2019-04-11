@@ -30,7 +30,7 @@ Aggregator POM for sections nested within [SemanticCMS](https://github.com/aoind
 * [SemanticCMS Section All](https://github.com/aoindustries/semanticcms-section-all)
 * [SemanticCMS Section Model](https://github.com/aoindustries/semanticcms-section-model)
 * [SemanticCMS Section Renderer HTML](https://github.com/aoindustries/semanticcms-section-renderer-html)
-* [SemanticCMS Section Servlet](https://semanticcms.com/section/servlet)
+* [SemanticCMS Section Servlet](https://github.com/aoindustries/semanticcms-section-servlet)
 * [SemanticCMS Section Style](https://github.com/aoindustries/semanticcms-section-style)
 * [SemanticCMS Section Taglib](https://github.com/aoindustries/semanticcms-section-taglib)
 

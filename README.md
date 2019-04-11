@@ -1,4 +1,4 @@
-# [<img src="ao-logo.png" alt="AO Logo" width="35" height="40">](https://aoindustries.com/) [SemanticCMS](https://semanticcms.com/) / [Section](https://semanticcms.com/section/)
+# [<img src="ao-logo.png" alt="AO Logo" width="35" height="40">](https://github.com/aoindustries) [SemanticCMS](https://github.com/aoindustries/semanticcms) / [Section](https://github.com/aoindustries/semanticcms-section)
 <p>
 	<a href="https://aoindustries.com/life-cycle#project-current-stable">
 		<img src="https://semanticcms.com/ao-badges/project-current-stable.svg" alt="project: current stable" />
@@ -18,7 +18,7 @@
 	</a>
 </p>
 
-Aggregator POM for sections nested within [SemanticCMS](https://semanticcms.com/) pages and elements.
+Aggregator POM for sections nested within [SemanticCMS](https://github.com/aoindustries/semanticcms) pages and elements.
 
 ## Project Links
 * [Project Home](https://semanticcms.com/section/)
@@ -27,12 +27,11 @@ Aggregator POM for sections nested within [SemanticCMS](https://semanticcms.com/
 * [GitHub](https://github.com/aoindustries/semanticcms-section)
 
 ## Modules
-* [SemanticCMS Section All](https://semanticcms.com/section/all/)
-* [SemanticCMS Section Book](https://semanticcms.com/section/book/)
-* [SemanticCMS Section Model](https://semanticcms.com/section/model/)
-* [SemanticCMS Section Servlet](https://semanticcms.com/section/servlet/)
-* [SemanticCMS Section Style](https://semanticcms.com/section/style/)
-* [SemanticCMS Section Taglib](https://semanticcms.com/section/taglib/)
+* [SemanticCMS Section All](https://github.com/aoindustries/semanticcms-section-all)
+* [SemanticCMS Section Model](https://github.com/aoindustries/semanticcms-section-model)
+* [SemanticCMS Section Servlet](https://github.com/aoindustries/semanticcms-section-servlet)
+* [SemanticCMS Section Style](https://github.com/aoindustries/semanticcms-section-style)
+* [SemanticCMS Section Taglib](https://github.com/aoindustries/semanticcms-section-taglib)
 
 ## Contact Us
 For questions or support, please [contact us](https://aoindustries.com/contact):

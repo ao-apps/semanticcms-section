@@ -32,7 +32,7 @@ along with semanticcms-section.  If not, see <http://www.gnu.org/licenses />.
 	<groupId>com.semanticcms</groupId><artifactId>semanticcms-section</artifactId><version>1.3.4-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
-	<name>SemanticCMS 1 Section</name>
+	<name>SemanticCMS Section</name>
 	<url>https://semanticcms.com/section/</url>
 	<description>Aggregator POM for sections nested within SemanticCMS pages and elements.</description>
 	<inceptionYear>2016</inceptionYear>

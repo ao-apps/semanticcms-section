@@ -34,7 +34,7 @@ along with semanticcms-section.  If not, see <http://www.gnu.org/licenses />.
 		shortTitle="@{documented.shortTitle}"
 		description="@{documented.description}"
 		datePublished="2016-10-19T02:34:00-0500"
-		dateModified="2019-06-01T00:46:53-0500"
+		dateModified="2019-06-01T18:51:51-0500"
 	>
 		<core:child page="changelog" />
 		<core:child book="/section/all" page="/" />
@@ -56,7 +56,7 @@ along with semanticcms-section.  If not, see <http://www.gnu.org/licenses />.
 		<p>
 			Aggregator POM for sections nested within <core:link book="/" page="/">SemanticCMS</core:link> pages and elements.
 		</p>
-		<section:section label="Project Links">
+		<section:navsection:nav label="Project Links">
 			<ul>
 				<li><core:link page="/">Project Home</core:link></li>
 				<li><core:link page="changelog">Changelog</core:link></li>

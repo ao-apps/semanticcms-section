@@ -37,7 +37,7 @@ along with semanticcms-section.  If not, see <http://www.gnu.org/licenses />.
 		shortTitle="Changelog"
 		tocLevels="1"
 		datePublished="2016-10-31T01:56:27-0500"
-		dateModified="2017-08-27T13:54:18-0500"
+		dateModified="2019-06-04T15:14:50-0500"
 	>
 		<!-- The current snapshot, unreleased version -->
 		<c:set var="version" value="@{com.semanticcms:semanticcms-section:pom.version}" />
@@ -54,8 +54,10 @@ along with semanticcms-section.  If not, see <http://www.gnu.org/licenses />.
 				scmUrl="@{documented.scm.url}"
 			>
 				<ul>
-					<li>Updated for <core:link book="/" page="/" /> 2.</li>
 					<li>New module <core:link book="/section/renderer/html" page="/" />.</li>
+					<!-- TODO:
+					<li>TODO: New project <core:link book="/section/bom" page="/index.jspx" /> for managed dependencies.</li>
+					-->
 				</ul>
 			</changelog:release>
 		</c:if>

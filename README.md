@@ -27,6 +27,7 @@ Aggregator POM for sections nested within [SemanticCMS](https://github.com/aoind
 * [GitHub](https://github.com/aoindustries/semanticcms-section)
 
 ## Modules
+* [SemanticCMS Section BOM](https://github.com/aoindustries/semanticcms-section-bom)
 * [SemanticCMS Section All](https://github.com/aoindustries/semanticcms-section-all)
 * [SemanticCMS Section Model](https://github.com/aoindustries/semanticcms-section-model)
 * [SemanticCMS Section Renderer HTML](https://github.com/aoindustries/semanticcms-section-renderer-html)

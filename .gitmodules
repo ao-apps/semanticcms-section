@@ -1,28 +1,28 @@
 [submodule "bom"]
 	path = bom
-	url = git@github.com:aoindustries/semanticcms-section-bom.git
+	url = git@github.com:ao-apps/semanticcms-section-bom.git
 	branch = .
 [submodule "all"]
 	path = all
-	url = git@github.com:aoindustries/semanticcms-section-all.git
+	url = git@github.com:ao-apps/semanticcms-section-all.git
 	branch = .
 [submodule "model"]
 	path = model
-	url = git@github.com:aoindustries/semanticcms-section-model.git
+	url = git@github.com:ao-apps/semanticcms-section-model.git
 	branch = .
 [submodule "renderer-html"]
 	path = renderer-html
-	url = git@github.com:aoindustries/semanticcms-section-renderer-html.git
+	url = git@github.com:ao-apps/semanticcms-section-renderer-html.git
 	branch = .
 [submodule "servlet"]
 	path = servlet
-	url = git@github.com:aoindustries/semanticcms-section-servlet.git
+	url = git@github.com:ao-apps/semanticcms-section-servlet.git
 	branch = .
 [submodule "style"]
 	path = style
-	url = git@github.com:aoindustries/semanticcms-section-style.git
+	url = git@github.com:ao-apps/semanticcms-section-style.git
 	branch = .
 [submodule "taglib"]
 	path = taglib
-	url = git@github.com:aoindustries/semanticcms-section-taglib.git
+	url = git@github.com:ao-apps/semanticcms-section-taglib.git
 	branch = .

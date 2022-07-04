@@ -67,14 +67,14 @@ along with semanticcms-section.  If not, see <https://www.gnu.org/licenses/>.
     <p>
       Aggregator POM for sections nested within <core:link book="/" page="/">SemanticCMS</core:link> pages and elements.
     </p>
-    <section:navsection:nav label="Project Links">
+    <section:nav label="Project Links">
       <ul>
         <li><core:link page="/">Project Home</core:link></li>
         <li><core:link page="changelog">Changelog</core:link></li>
         <li><ao:a href="https://search.maven.org/artifact/${ao:encodeURIComponent('@{project.groupId}')}/${ao:encodeURIComponent('@{documented.artifactId}')}">Maven Central Repository</ao:a></li>
         <li><ao:a href="@{project.scm.url}">GitHub</ao:a></li>
       </ul>
-    </section:section>
+    </section:nav>
     <section:section label="Modules">
       <ul>
         <li><core:link book="/section/bom" page="/" /></li>

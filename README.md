@@ -19,7 +19,7 @@ Aggregator POM for sections nested within [SemanticCMS](https://github.com/ao-ap
 ## Project Links
 * [Project Home](https://semanticcms.com/section/)
 * [Changelog](https://semanticcms.com/section/changelog)
-* [Maven Central Repository](https://central.sonatype.com/search?namespace=com.semanticcms&q=a%3Asemanticcms-section)
+* [Maven Central Repository](https://central.sonatype.com/artifact/com.semanticcms/semanticcms-section)
 * [GitHub](https://github.com/ao-apps/semanticcms-section)
 
 ## Modules
